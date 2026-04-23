@@ -53,5 +53,8 @@ Each record includes: `experiment`, `model`, `level`, `trial_index`, `contextual
 
 ---
 
+### `RiskAttitude_HumanData/`
+Contains a files with human subject experiments results, each participant did 5 trials per task.
+
 ## Contact
 For questions about the data, please open an issue in this repository.
